@@ -1,11 +1,11 @@
 //Navigation System using React Navigation Library - https://reactnavigation.org/
-npm install @react-navigation/native
+// npm install @react-navigation/native
 
-It Provide variety of navigators like - Stack, Drawer and Tabs. 
+// It Provide variety of navigators like - Stack, Drawer and Tabs.
 
-Here : I am using Native Stack Navigation system. We also have Stack Navigator System 
+// Here : I am using Native Stack Navigation system. We also have Stack Navigator System
 
-Wrap up with Navigation Conatiner 
+// Wrap up with Navigation Conatiner
 
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
